@@ -18,7 +18,7 @@
   },
   "dependencies": {
     "@emotion/core": "^10.0.14",
-    "@mdx-js/mdx": "^1.0.21",
+    "@mdx-js/mdx": "^1.6.22",
     "@mdx-js/react": "^1.0.21",
     "@system-ui/theme": "0.0.4",
     "@theme-ui/presets": "^0.2.0",
